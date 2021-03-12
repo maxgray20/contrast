@@ -1,9 +1,12 @@
 ---
 title: "Welcome to the blog"
+excerpt_separator: <!--more-->
 layout: post
 ---
 
 Writing and the writing process aren’t separate from information literacy and the information landscape. They’re different sides of the same coin. We can’t develop rhetorical awareness and critical thinking skills without also understanding the information landscape, and today’s information landscape is critically digital and technological.
+
+<!--more-->
 
 As young people born at the turn of the twenty-first century, you’ll be spending a lifetime creating, consuming, enjoying, and communicating via digital media. You probably already spend more time every day on your smartphone than you do with most of your friends and family members. Contrary to some popular beliefs, this isn’t a bad thing. But living and working successfully via digital media require a special kind of literacy or knowledge. This course will start you on the journey to being able to read, understand and participate in the information and communication landscape in the digital age.
 
