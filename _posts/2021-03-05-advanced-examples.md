@@ -14,9 +14,7 @@ categories: media
 
 ## Images
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+Upload an image file at `_assets` folder and embed it using the code `![title](/assets/filname.jpg))`.
 
 ![ReppinSconnie, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f5/Aitken_Reading_Room%2C_Marquette_University_Law_School.jpg)
 
@@ -24,6 +22,6 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 ## Embedded content
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include. Take a look at the source for this post to get an idea about how it works.
 
 {% include embed.html url="https://www.youtube.com/embed/l9TuKL3uRSQ" %}
