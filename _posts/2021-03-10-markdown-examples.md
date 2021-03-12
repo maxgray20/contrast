@@ -4,9 +4,9 @@ excerpt_separator: <!--more-->
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Marquette University Raynor Memorial Libraries advances intellectual inquiry and discovery by connecting the Marquette community with information and knowledge.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+Marquette University Raynor Memorial Libraries leads in the delivery and creation of content and services that focus on the needs of today and the possibilities of tomorrow. We envision the future to anticipate and meet the information needs of a university which aspires to be among the most innovative and accomplished Catholic and Jesuit Universities. We are committed to cultivating a center for engagement that fosters learning, scholarship, and intellectual discovery, all of which are key components of a Catholic, Jesuit education.
 
 <!--more-->
 
