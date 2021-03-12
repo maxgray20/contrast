@@ -22,6 +22,6 @@ You can upload an image file at the `_assets` directory and embed it using the c
 
 ## Embedded content
 
-You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include at the `_includes` directory, via the code `{% include embed.html url="embed-url" %}`. You can take a look at the source for this post at the `_posts` directory to review the code in action.
+You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include at the `_includes` directory. You can take a look at the source for this post at the `_posts` directory to review the code in action.
 
 {% include embed.html url="https://www.youtube.com/embed/l9TuKL3uRSQ" %}
