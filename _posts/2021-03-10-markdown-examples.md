@@ -29,11 +29,9 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ### Multiline
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
+> Marquette University Mission, Vision and Guiding Values
+> 
+> Institutional cultures are driven by an organization’s mission, vision and values. Our mission articulates our purpose – why we exist. Our vision is how we seek to deliver on our mission. Our guiding values are those characteristics that we commit to as individuals and as an organization so that we develop a culture that delivers our mission and executes our vision.
 
 ## Horizontal Rule
 
@@ -47,26 +45,6 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 | Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
 | Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
 
 ## Lists
 
