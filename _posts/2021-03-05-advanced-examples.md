@@ -1,5 +1,6 @@
 ---
 title:  "Advanced examples"
+excerpt_separator: <!--more-->
 mathjax: true
 layout: post
 categories: media
@@ -22,6 +23,8 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 }
 
 {% endhighlight %}
+
+<!--more-->
 
 ## Gists
 
