@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 layout: post
 --- 
 
-This site is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and a static site generator called [Jekyll](https://jekyllrb.com/).
+This web site is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and a static site generator called [Jekyll](https://jekyllrb.com/).
 
 You’ll find the source for this post in the file called `2021-03-15-welcome-to-the-site.md` in the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add new posts, simply add a new file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
