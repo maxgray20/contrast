@@ -25,13 +25,13 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ### Single line
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+> Go and set the world on fire. _St. Ignatius of Loyola_
 
 ### Multiline
 
-> _Marquette University Mission, Vision and Guiding Values_
+> Marquette University is a Catholic, Jesuit university dedicated to serving God by serving our students and contributing to the advancement of knowledge. Our mission, therefore, is the search for truth, the discovery and sharing of knowledge, the fostering of personal and professional excellence, the promotion of a life of faith, and the development of leadership expressed in service to others. All this we pursue for the greater glory of God and the common benefit of the human community.
 > 
-> Institutional cultures are driven by an organization’s mission, vision and values. Our mission articulates our purpose – why we exist. Our vision is how we seek to deliver on our mission. Our guiding values are those characteristics that we commit to as individuals and as an organization so that we develop a culture that delivers our mission and executes our vision.
+> _Marquette University Mission Statement_
 
 ## Horizontal Rule
 
