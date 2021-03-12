@@ -14,7 +14,7 @@ categories: media
 
 ## Images
 
-You can upload an image file at the `_assets` directory and embed it using the code `![title](/assets/filname.jpg))`.
+You can upload an image file at the `_assets` directory and embed it using the code `![title](/assets/filname.jpg))`. You can take a look at the source for this post in the `_posts` directory to review the code in action.
 
 ![ReppinSconnie, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f5/Aitken_Reading_Room%2C_Marquette_University_Law_School.jpg)
 
