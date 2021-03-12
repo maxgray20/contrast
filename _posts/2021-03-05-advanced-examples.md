@@ -14,7 +14,7 @@ categories: media
 
 ## Images
 
-Upload an image file at `_assets` folder and embed it using the code `![title](/assets/filname.jpg))`.
+You can upload an image file at the `_assets` directory and embed it using the code `![title](/assets/filname.jpg))`.
 
 ![ReppinSconnie, CC BY-SA 3.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f5/Aitken_Reading_Room%2C_Marquette_University_Law_School.jpg)
 
@@ -22,6 +22,6 @@ Upload an image file at `_assets` folder and embed it using the code `![title](/
 
 ## Embedded content
 
-You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include. Take a look at the source for this post to get an idea about how it works.
+You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include at the `_includes` directory, via the code `{% include embed.html url="embed-url" %}`. You can take a look at the source for this post in the `_posts` directory to review the code in action.
 
 {% include embed.html url="https://www.youtube.com/embed/l9TuKL3uRSQ" %}
