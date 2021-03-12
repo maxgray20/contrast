@@ -29,7 +29,7 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ### Multiline
 
-> Marquette University Mission, Vision and Guiding Values
+> _Marquette University Mission, Vision and Guiding Values_
 > 
 > Institutional cultures are driven by an organization’s mission, vision and values. Our mission articulates our purpose – why we exist. Our vision is how we seek to deliver on our mission. Our guiding values are those characteristics that we commit to as individuals and as an organization so that we develop a culture that delivers our mission and executes our vision.
 
