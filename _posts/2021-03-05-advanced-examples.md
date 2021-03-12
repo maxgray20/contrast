@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Advanced markdown examples"
 excerpt_separator: <!--more-->
 mathjax: true
 layout: post
