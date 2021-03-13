@@ -2,6 +2,7 @@
 title: "Welcome to the course"
 excerpt_separator: <!--more-->
 layout: post
+author: Maxwell
 ---
 
 Writing and the writing process aren’t separate from information literacy and the information landscape. They’re different sides of the same coin. We can’t develop rhetorical awareness and critical thinking skills without also understanding the information landscape, and today’s information landscape is critically digital and technological.
