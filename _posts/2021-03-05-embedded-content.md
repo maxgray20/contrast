@@ -1,5 +1,5 @@
 ---
-title:  "Images and embeded content"
+title:  "Images and other embeded content"
 excerpt_separator: <!--more-->
 mathjax: true
 layout: post
@@ -22,7 +22,7 @@ You can upload an image file at the `_assets` directory of the site repository a
 
 [Aitken Reading Room, Marquette University Law School](https://commons.wikimedia.org/wiki/File:Aitken_Reading_Room,_Marquette_University_Law_School.jpg) by ReppinSconnie, CC BY-SA 3.0, via Wikimedia Commons.
 
-## Embedded content
+## Other embedded content
 
 You can also embed a lot of other stuff, like video files from YouTube, using the `embed.html` include at the `_includes` directory of the site repository. You can take a look at the source text for this post at the `_posts` directory to review the code in action.
 
