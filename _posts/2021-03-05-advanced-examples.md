@@ -4,6 +4,8 @@ excerpt_separator: <!--more-->
 mathjax: true
 layout: post
 categories: media
+author: maxwell
+
 ---
 
 ![The original uploader was Illwauk at English Wikipedia., CC BY 2.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f9/Raynor_library%2C_Marquette_University.jpg)
