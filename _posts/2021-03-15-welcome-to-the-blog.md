@@ -6,6 +6,13 @@ author: maxwell
 
 --- 
 
+{% assign author = site.data.people[page.author] %}
+<a rel="author"
+  href="https://twitter.com/{{ author.twitter }}"
+  title="{{ author.name }}">
+    {{ author.name }}
+</a>
+
 ## How it works
 
 This blog is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML.
