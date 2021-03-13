@@ -6,9 +6,9 @@ layout: post
 
 ## Raynor Memorial Libraries
 
-Marquette University Raynor Memorial Libraries advances intellectual inquiry and discovery by connecting the Marquette community with information and knowledge. —_Raynor Memorial Libraries Mission_
+Marquette University Raynor Memorial Libraries advances intellectual inquiry and discovery by connecting the Marquette community with information and knowledge. —**Raynor Memorial Libraries Mission**
 
-Marquette University Raynor Memorial Libraries leads in the delivery and creation of content and services that focus on the needs of today and the possibilities of tomorrow. We envision the future to anticipate and meet the information needs of a university which aspires to be among the most innovative and accomplished Catholic and Jesuit Universities. We are committed to cultivating a center for engagement that fosters learning, scholarship, and intellectual discovery, all of which are key components of a Catholic, Jesuit education. —_Raynor Memorial Libraries Vision_
+Marquette University Raynor Memorial Libraries leads in the delivery and creation of content and services that focus on the needs of today and the possibilities of tomorrow. We envision the future to anticipate and meet the information needs of a university which aspires to be among the most innovative and accomplished Catholic and Jesuit Universities. We are committed to cultivating a center for engagement that fosters learning, scholarship, and intellectual discovery, all of which are key components of a Catholic, Jesuit education. —**Raynor Memorial Libraries Vision**
 
 ### Digital Scholarship Lab
 
