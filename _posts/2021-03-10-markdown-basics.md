@@ -8,7 +8,7 @@ author: maxwell
 
 ## Raynor Memorial Libraries
 
-**Vision**: Marquette University Raynor Memorial Libraries leads in the delivery and creation of content and services that focus on the needs of today and the possibilities of tomorrow. We envision the future to anticipate and meet the information needs of a university which aspires to be among the most innovative and accomplished Catholic and Jesuit Universities. We are committed to cultivating a center for engagement that fosters learning, scholarship, and intellectual discovery, all of which are key components of a Catholic, Jesuit education.
+Marquette University Raynor Memorial Libraries leads in the delivery and creation of content and services that focus on the needs of today and the possibilities of tomorrow. We envision the future to anticipate and meet the information needs of a university which aspires to be among the most innovative and accomplished Catholic and Jesuit Universities. We are committed to cultivating a center for engagement that fosters learning, scholarship, and intellectual discovery, all of which are key components of a Catholic, Jesuit education.
 
 ### Digital Scholarship Lab
 
