@@ -2,6 +2,8 @@
 title:  "Markdown basics"
 excerpt_separator: <!--more-->
 layout: post
+author: maxwell
+
 ---
 
 ## Raynor Memorial Libraries
