@@ -1,5 +1,5 @@
 ---
-title:  "Advanced markdown examples"
+title:  "Images and embeded content"
 excerpt_separator: <!--more-->
 mathjax: true
 layout: post
