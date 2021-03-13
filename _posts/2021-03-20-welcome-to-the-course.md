@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the blog"
+title: "Welcome to the course"
 excerpt_separator: <!--more-->
 layout: post
 ---
