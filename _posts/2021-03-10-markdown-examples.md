@@ -1,5 +1,5 @@
 ---
-title:  "Markdown basics"
+title:  "Markdown examples"
 excerpt_separator: <!--more-->
 layout: post
 ---
