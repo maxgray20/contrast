@@ -1,5 +1,5 @@
 title: "Course Blog for English 3210 at Marquette University"
-description: "Mock course blog for Marquette Libraries"
+description: "Mock course blog for the Digital Scholarship Lab at Marquette Libraries"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
