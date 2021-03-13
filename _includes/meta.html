@@ -3,5 +3,5 @@
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time>
   {% assign author = site.data.people[page.author] %}
-<a rel="author" href="https://twitter.com/{{ author.twitter }}>{{ author.name }}</a>
+  <author>{{ author.name }}</author>
 </header>
