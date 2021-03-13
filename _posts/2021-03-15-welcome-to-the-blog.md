@@ -2,7 +2,7 @@
 title: "Welcome to the blog"
 excerpt_separator: <!--more-->
 layout: post
-author: Maxwell
+author: maxwell
 
 --- 
 
