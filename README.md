@@ -8,4 +8,4 @@ This site is developed as a mock course blog for the [Digital Scholarship Lab](h
 
 ## Who we are
 
-[Maxwell Gray](https://maxgray20.com) is a library student based at the University of Wisconsin-Madison.
+[Maxwell Gray](https://maxgray20.com) is a library student in the iSchool at the University of Wisconsin-Madison.
