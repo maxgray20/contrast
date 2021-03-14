@@ -16,7 +16,7 @@ This course blog for English 3210 at Marquette University is a static site built
 
 <!--more-->
 
-You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. You can take a look at the source text for this post to review the necessary front matter.
+You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. You can review at the source text for this post for an example of the necessary front matter. You can also review the example front matter below.
 
 ```
 title: "your post title"
