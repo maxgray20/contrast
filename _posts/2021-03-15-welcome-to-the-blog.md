@@ -12,7 +12,7 @@ author: maxwell
 
 ## How it works
 
-This blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. Markdown is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog.
+This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog.
 
 <!--more-->
 
@@ -27,6 +27,6 @@ author: your name
 
 ## Markdown 101
 
-The basics of Markdown's formatting syntax are very easy to learn from the examples at the [Markdown](https://daringfireball.net/projects/markdown/basics) documententation. You can practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-formatted text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one below from Steve Griffith of the media and design department at Algonquin College.
+The basics of Markdown's formatting syntax are very easy to learn from the examples at the Markdown [documentation](https://daringfireball.net/projects/markdown/basics). You can practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-formatted text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one below from Steve Griffith of the media and design department at Algonquin College.
 
 {% include embed.html url="https://www.youtube.com/embed/eJojC3lSkwg" %}
