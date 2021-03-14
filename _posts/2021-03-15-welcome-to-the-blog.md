@@ -27,6 +27,6 @@ author: your name
 
 ## Markdown 101
 
-The basics of Markdown's formatting syntax are very easy to learn by the examples of it in action at the [Markdown](https://daringfireball.net/projects/markdown/basics) documententation. You can practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-formatted text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one below from Steve Griffith of the media and design department at Algonquin College.
+The basics of Markdown's formatting syntax are very easy to learn from the examples at the [Markdown](https://daringfireball.net/projects/markdown/basics) documententation. You can practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-formatted text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one below from Steve Griffith of the media and design department at Algonquin College.
 
 {% include embed.html url="https://www.youtube.com/embed/eJojC3lSkwg" %}
