@@ -26,7 +26,7 @@ can see the source text for this paragraph below.
 
 > ### Reading Markdown
 > 
-> Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
+> Notice above how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
 
 <!--more-->
 
