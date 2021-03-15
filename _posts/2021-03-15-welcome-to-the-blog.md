@@ -22,10 +22,11 @@ snippets of YAML for front matter and Markdown for the body of the post. [Markdo
 web writers that allows you to write blog post text using an easy-to-read, easy-to-write
 plain text format, and then convert your text to HTML for your blog. For example, you
 can see the source text for this paragraph below.
-
 ```
 
 <!--more-->
+
+## Adding new posts
 
 You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. You can see the pattern for the necessary front matter below.
 
