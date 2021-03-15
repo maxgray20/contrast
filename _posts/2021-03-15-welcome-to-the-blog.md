@@ -11,11 +11,15 @@ author: maxwell
 
 ## How it works
 
-This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog.
+This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog. For example, you can see the source text for this paragraph below.
+
+```
+This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog. You can see the source text for this paragraph below.
+```
 
 <!--more-->
 
-You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. You can see at the source text for this post for an example of the necessary front matter. You can also see the front matter pattern below.
+You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. You can see the pattern for the necessary front matter below.
 
 ```
 ---
