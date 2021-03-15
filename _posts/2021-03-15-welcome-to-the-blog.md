@@ -45,7 +45,7 @@ author: your name
 
 > ### Reading YAML
 > 
-> All blog post files must begin with the necessary front matter used to set the `layout` for `post`. When the `layout` is set for `post`, this specifies the file is a blog post for the site generator Jekyll.
+> All blog post files must begin with the necessary front matter used to set the `layout` for `post`. When the `layout` is set for `post`, this specifies the file is a blog post for the site generator.
 
 ## Markdown basics
 
