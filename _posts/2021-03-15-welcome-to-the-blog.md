@@ -45,7 +45,7 @@ author: your name
 
 > ### Reading YAML
 > 
-> Blogging is baked into the site generator Jekyll. You write blog posts as text files and Jekyll turns them into a blog. All blog post files must begin with the necessary front matter used to set the `layout` for `post`. When the `layout` is set for `post`, this specifies for Jekyll the file is a blog post.
+> All blog post files must begin with the necessary front matter used to set the `layout` for `post`. When the `layout` is set for `post`, this specifies for the site generator Jekyll the file is a blog post.
 
 ## Markdown basics
 
