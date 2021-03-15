@@ -13,14 +13,17 @@ author: maxwell
 
 This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an easy-to-read, easy-to-write plain text format, and then convert your text to HTML for your blog. For example, you can see the source text for this paragraph below.
 
-        This course blog for English 3210 at Marquette University is a static site built using
-        a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/),
-        and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use
-        snippets of YAML for front matter and Markdown for the body of the post.[Markdown]
-        (https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for
-        web writers that allows you to write blog post text using an easy-to-read, easy-to-write
-        plain text format, and then convert your text to HTML for your blog. For example, you
-        can see the source text for this paragraph below.
+```
+This course blog for English 3210 at Marquette University is a static site built using
+a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/),
+and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use
+snippets of YAML for front matter and Markdown for the body of the post. [Markdown]
+(https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for
+web writers that allows you to write blog post text using an easy-to-read, easy-to-write
+plain text format, and then convert your text to HTML for your blog. For example, you
+can see the source text for this paragraph below.
+
+```
 
 <!--more-->
 
