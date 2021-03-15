@@ -26,7 +26,7 @@ can see the source text for this paragraph below.
 
 > ### Reading Markdown
 > 
-> Markdown's plain text format is easy to read and write. Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
+> Markdown's plain text format is easy to read and write. Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
 
 <!--more-->
 
@@ -45,7 +45,7 @@ author: your name
 
 > ### Reading YAML
 > 
-> All blog post files must begin with the necessary front matter used to specify the file's layout as `post` for the site generator.
+> Blogging is baked into the site generator Jekyll. You write blog posts as text files and Jekyll turns them into a blog. All blog post files must begin with the necessary front matter used to set the layout for `post`. When the layout is set for `post`, this specifies for Jekyll the file is a blog post.
 
 ## Markdown basics
 
