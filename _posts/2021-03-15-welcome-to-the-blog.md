@@ -26,7 +26,7 @@ can see the source text for this paragraph below.
 
 > ### Reading Markdown
 > 
-> Notice above how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
+> Markdown's plain text format is easy to read and write. Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
 
 <!--more-->
 
@@ -42,6 +42,10 @@ layout: post
 author: your name
 ---
 ```
+
+> ### Reading YAML
+> 
+> All blog post files must begin with the necessary front matter used to specify the file's layout as `post` for the site generator.
 
 ## Markdown basics
 
