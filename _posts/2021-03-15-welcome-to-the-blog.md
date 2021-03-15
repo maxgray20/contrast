@@ -3,7 +3,6 @@ title: "Welcome to the blog"
 excerpt_separator: <!--more-->
 layout: post
 author: maxwell
-
 --- 
 
 ![The original uploader was Illwauk at English Wikipedia., CC BY 2.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f9/Raynor_library%2C_Marquette_University.jpg)
@@ -24,7 +23,6 @@ title: "your post title"
 excerpt_separator: <!--more-->
 layout: post
 author: your name
-
 ---
 ```
 
