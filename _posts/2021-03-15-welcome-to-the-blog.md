@@ -28,7 +28,7 @@ can see the source text for this paragraph below.
 
 ## Adding new posts
 
-You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. You can see the pattern for the necessary front matter below.
+You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-your-post-title.md` and includes the necessary front matter. You can see the pattern for the necessary front matter below.
 
 ```
 ---
