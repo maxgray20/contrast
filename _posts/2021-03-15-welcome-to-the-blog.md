@@ -24,6 +24,10 @@ plain text format*, and then convert your text to HTML for your blog. For exampl
 can see the source text for this paragraph below.
 ```
 
+> ### Reading Markdown
+> 
+> Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate emphasis.
+
 <!--more-->
 
 ## Adding new posts
