@@ -1,8 +1,8 @@
 ---
 title: "Welcome to the blog"
 excerpt_separator: <!--more-->
-layout: post
 author: maxwell
+layout: post
 --- 
 
 ![The original uploader was Illwauk at English Wikipedia., CC BY 2.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f9/Raynor_library%2C_Marquette_University.jpg)
@@ -11,7 +11,7 @@ author: maxwell
 
 ## How it works
 
-This course blog for English 3210 at Marquette University is developed using the popular static site generator [Jekyll](https://jekyllrb.com/) and hosting service [GitHub Pages](https://pages.github.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a plain text format syntax and text-to-HTML conversion tool for web writers that allows you to write blog post text using an *easy-to-read, easy-to-write plain text format*, and then convert your text to HTML for your blog. For example, you can see the Markdown-format source text for this paragraph copied below.
+This course blog for English 3210 at Marquette University is developed using the popular static site generator [Jekyll](https://jekyllrb.com/) and hosting service [GitHub Pages](https://pages.github.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a plain text format syntax and text-to-HTML conversion tool for web writers that allows you to write posts using an *easy-to-read, easy-to-write plain text format*, and then convert your text to HTML for your blog. For example, you can see the Markdown-format source text for this paragraph copied below.
 
 ```
 This course blog for English 3210 at Marquette University is developed using the popular
@@ -27,7 +27,7 @@ Markdown-format sourece text for this paragraph copied below.
 
 > ### Reading Markdown
 > 
-> Markdown's plain text format is easy to read and write. In the source text above you can see how Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
+> Markdown's plain text format is easy to read and write. In the Markdown-format source text above you can see how Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
 
 <!--more-->
 
@@ -38,9 +38,8 @@ You can find the rest of the source text for this post at the file called `2021-
 ```
 ---
 title: "your post title"
-excerpt_separator: <!--more-->
-layout: post
 author: your name
+layout: post
 ---
 ```
 
