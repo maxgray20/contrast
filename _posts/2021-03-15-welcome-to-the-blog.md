@@ -11,28 +11,29 @@ author: maxwell
 
 ## How it works
 
-This course blog for English 3210 at Marquette University is a static site built using a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/), and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for web writers that allows you to write blog post text using an *easy-to-read, easy-to-write plain text format*, and then convert your text to HTML for your blog. For example, you can see the source text for this paragraph below.
+This course blog for English 3210 at Marquette University is developed using the popular static site generator [Jekyll](https://jekyllrb.com/) and hosting service [GitHub Pages](https://pages.github.com/). Blog posts use snippets of YAML for front matter and Markdown for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a plain text format syntax and text-to-HTML conversion tool for web writers that allows you to write blog post text using an *easy-to-read, easy-to-write plain text format*, and then convert your text to HTML for your blog. For example, you can see the Markdown-format source text for this paragraph copied below.
 
 ```
-This course blog for English 3210 at Marquette University is a static site built using
-a [GitHub](https://github.com/) repository, [GitHub Pages](https://pages.github.com/),
-and the popular static site generator [Jekyll](https://jekyllrb.com/). Blog posts use
-snippets of YAML for front matter and Markdown for the body of the post. [Markdown]
-(https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool for
-web writers that allows you to write blog post text using an *easy-to-read, easy-to-write
-plain text format*, and then convert your text to HTML for your blog. For example, you
-can see the source text for this paragraph below.
+This course blog for English 3210 at Marquette University is developed using the popular
+static site generator [Jekyll](https://jekyllrb.com/) and hosting service [GitHub Pages]
+(https://pages.github.com/). Blog posts use snippets of YAML for front matter and Markdown
+for the body of the post. [Markdown](https://daringfireball.net/projects/markdown/) is a
+plain text format syntax and text-to-HTML conversion tool for web writers that allows
+you to write blog post text using an *easy-to-read, easy-to-write plain text format*,
+and then convert your text to HTML for your blog. For example, you can see the
+Markdown-format sourece text for this paragraph copied below.
+
 ```
 
 > ### Reading Markdown
 > 
-> Markdown's plain text format is easy to read and write. Notice how Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
+> Markdown's plain text format is easy to read and write. In the source text above you can see how Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
 
 <!--more-->
 
 ## Adding new posts
 
-You can find the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-your-post-title.md` and includes the necessary YAML front matter. You can see the pattern for the necessary front matter below.
+You can find the rest of the source text for this post at the file called `2021-03-15-welcome-to-the-blog.md` at the `_posts` directory of the [site repository](https://github.com/maxgray20/english-3210). To add a new post to the blog, you can add a new `.md` file at the `_posts` directory that follows the naming convention `YYYY-MM-DD-your-post-title.md` and includes the necessary YAML front matter. You can see the pattern for the necessary YAML front matter copied below.
 
 ```
 ---
@@ -45,10 +46,10 @@ author: your name
 
 > ### Reading YAML
 > 
-> All blog post files must begin with the necessary front matter used to set the `layout` for `post`. When the `layout` is set for `post`, this specifies the file is a blog post for the site generator.
+> All blog post files must begin with the necessary YAML front matter used to set the `layout` variable for `post`. When the `layout` variable is set for `post`, this specifies the file is a blog post for the static site generator Jekyll.
 
 ## Markdown basics
 
-The basics of Markdown's plain text formatting syntax are very easy to learn simply by looking at the examples of it in action at the Markdown [documentation](https://daringfireball.net/projects/markdown/basics). You can practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-formatted text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one below from Steve Griffith of the media and design department at Algonquin College.
+The basics of Markdown's plain text format syntax are very easy to learn simply by looking at the examples of it in action at the Markdown [documentation](https://daringfireball.net/projects/markdown/basics). You can also practice Markdown using the web application [Dingus](https://daringfireball.net/projects/markdown/dingus) that allows you to practice writing your own Markdown-format source text, and then translate it to HTML live. You can also find many Markdown video tutorials online like the one embedded below from Steve Griffith of the media and design department at Algonquin College.
 
 {% include embed.html url="https://www.youtube.com/embed/eJojC3lSkwg" %}
