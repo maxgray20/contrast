@@ -8,4 +8,4 @@ This site was developed as a mock course blog for the [Digital Scholarship Lab](
 
 ## Who we are
 
-[Maxwell Gray](https://maxgray20.com) is a digital humanist based at the University of Wisconsin-Madison.
+[Maxwell Gray](https://maxgray20.com) is a digital humanist and library student based at the University of Wisconsin-Madison.
