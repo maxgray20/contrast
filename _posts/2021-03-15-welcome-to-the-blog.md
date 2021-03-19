@@ -34,9 +34,11 @@ technical skills.
 **Blog post files** begin with snippets of YAML front matter which is  used to set the layout or other meta data. [YAML](https://yaml.org/) is a "human friendly data serialization standard for programming languages," like Ruby. (Jekyll is written in Ruby.) If this doesn't sound very "human friendly," then don't worry about it. tl;dr: the front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example for blog post files:
 
 ```
+---
 title: "your post title"
 author: your_name
 layout: post
+---
 ```
 
 > ### Reading YAML
