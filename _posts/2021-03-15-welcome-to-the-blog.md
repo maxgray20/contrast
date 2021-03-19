@@ -43,4 +43,4 @@ layout: post
 
 > ### Reading YAML
 > 
-> Blog post files must begin with versions of the YAML front matter above which is used to set the layout and author meta data. When the `layout` variable is set to `post`, this specifies the file should be processed by Jekyll as a blog post.
+> Blog post files must begin with versions of the YAML front matter above which are used to set the layout and author meta data. When the `layout` variable is set for `post`, this specifies the file should be processed by Jekyll as a blog post.
