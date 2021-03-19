@@ -27,7 +27,7 @@ technical skills.
 
 > ### Reading Markdown
 > 
-> Markdown's plain text format is easy to read and write. In the Markdown-format plain text above you can see Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis.
+> Markdown's plain text format is easy to read and write. In the Markdown-format plain text above you can see Markdown uses brackets and parentheses for creating links, and asterisks to indicate spans of emphasis, and double astrisks to indicate spans of strong emphasis.
 
 <!--more-->
 
