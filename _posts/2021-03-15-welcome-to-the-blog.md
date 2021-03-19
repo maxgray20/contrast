@@ -13,12 +13,12 @@ layout: post
 
 This course blog for English 3210 at Marquette University is developed using Jekyll and GitHub Pages. [Jekyll](https://jekyllrb.com/) is a popular static site generator that transforms your plain text into static websites and blogs. It takes Markdown-format plain text and uses YAML, Liquid, HTML and CSS layouts and style sheets to create static sites. [GitHub Pages](https://pages.github.com/) is a static site hosting service that takes HTML, CSS, and JavaScript files straight from your repository at GitHub, runs the files through a build process, and publishes your repository as a static site.
 
-Blog posts are written in Markdown. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool and plain text formatting syntax for web writers that allows you to write using an *easy-to-read, easy-to-write plain text format*, and then convert it to structurally valid HTML. Jekyll includes built-in support for Markdown. You can use Markdown’s formatting syntax to write Markdown-format plain text, and Jekyll will use it to create pages and posts for the blog site. Meaning you can write blog posts for the site without any HTML, CSS or other technical skills. Here is the Markdown-format plain text for this paragraph:
+**Blog posts** are written in Markdown. [Markdown](https://daringfireball.net/projects/markdown/) is a text-to-HTML conversion tool and plain text formatting syntax for web writers that allows you to write using an *easy-to-read, easy-to-write plain text format*, and then convert it to structurally valid HTML. Jekyll includes built-in support for Markdown. You can use Markdown’s formatting syntax to write Markdown-format plain text, and Jekyll will use it to create pages and posts for the blog site. Meaning you can write blog posts for the site without any HTML, CSS or other technical skills. Here is the Markdown-format plain text for this paragraph:
 
 ```
-Blog posts are written in Markdown. [Markdown](https://daringfireball.net/projects/markdown/) is a
-text-to-HTML conversion tool and plain text formatting syntax for web writers that allows you to
-write using an *easy-to-read, easy-to-write plain text format*, and then convert it to structurally
+**Blog posts** are written in Markdown. [Markdown](https://daringfireball.net/projects/markdown/)
+is a text-to-HTML conversion tool and plain text formatting syntax for web writers that allows you
+to write using an *easy-to-read, easy-to-write plain text format*, and then convert it to structurally
 valid HTML. Jekyll includes built-in support for Markdown. You can use Markdown’s formatting syntax
 to write Markdown-format plain text, and Jekyll will use it to create pages and posts for your
 blog site. Meaning you can write blog posts for your site without any HTML, CSS or other
@@ -31,7 +31,7 @@ technical skills.
 
 <!--more-->
 
-Blog post files begin with snippets of [YAML](https://yaml.org/) front matter which is  used to set the layout or other meta data. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example for blog post files:
+**Blog post files** begin with snippets of [YAML](https://yaml.org/) front matter which is  used to set the layout or other meta data. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example for blog post files:
 
 ```
 title: "your post title"
